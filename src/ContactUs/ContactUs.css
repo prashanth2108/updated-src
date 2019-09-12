@@ -1,0 +1,15 @@
+.contactus_wrapper{
+    padding-top: 5cm;
+    padding-bottom: 5cm;
+    padding-left: 50px;
+    padding-right: 5px;
+}
+.card
+{
+    width: 50rem;
+    /* padding-left:50px; */
+}
+.card-body
+{
+    width: 30rem;
+}
